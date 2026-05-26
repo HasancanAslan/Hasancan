@@ -9,7 +9,7 @@ Akdeniz Üniversitesi Elektrik-Elektronik Mühendisliği mezunuyum. Güç elektr
 
 ---
 
-### 🛠️ Teknoloji ve Yetenek Stakım
+### 🛠️ Teknik Yetkinliklerim
 
 **Donanım Tasarımı & Simülasyon**
 <br>
