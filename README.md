@@ -1,4 +1,4 @@
-# Selam! Ben Hasan Can Aslan 👋
+# Selam! Ben Hasancan Aslan 👋
 
 **Güç Elektroniği ve Donanım Mühendisi** ⚡ | **Full-Stack Donanım Geliştirici**
 
@@ -40,4 +40,4 @@ Akdeniz Üniversitesi Elektrik-Elektronik Mühendisliği mezunuyum. Güç elektr
 
 ---
 
-*Şematik, PCB Layout ve simülasyon dosyaları için repolarımı inceleyebilirsiniz.*# Hasancan
+*Şematik, PCB Layout ve simülasyon dosyaları için repolarımı inceleyebilirsiniz.*
