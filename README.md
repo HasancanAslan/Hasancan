@@ -18,6 +18,7 @@ Akdeniz Üniversitesi Elektrik-Elektronik Mühendisliği mezunuyum. Güç elektr
 <img src="https://img.shields.io/badge/PLECS-0055A4?style=flat-square" alt="PLECS">
 <img src="https://img.shields.io/badge/Proteus-15B8C1?style=flat-square" alt="Proteus">
 <img src="https://img.shields.io/badge/Simulink-E1622F?style=flat-square" alt="Simulink">
+<img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white" alt="MATLAB">
 
 **Gömülü Sistemler & Yazılım**
 <br>
@@ -25,7 +26,6 @@ Akdeniz Üniversitesi Elektrik-Elektronik Mühendisliği mezunuyum. Güç elektr
 <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#">
 <img src="https://img.shields.io/badge/Microchip_dsPIC-ED1C24?style=flat-square&logo=microchip&logoColor=white" alt="dsPIC">
 <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="ESP32">
-<img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white" alt="MATLAB">
 
 **Endüstriyel Üretim & Test**
 `DFM/DFT` `BOM Analizi` `ICT/FCT` `Osiloskop` `LCR Metre` `Saturn PCB`
