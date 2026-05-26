@@ -13,7 +13,7 @@ Akdeniz Üniversitesi Elektrik-Elektronik Mühendisliği mezunuyum. Güç elektr
 
 **Donanım Tasarımı & Simülasyon**
 <br>
-![Altium Designer]([https://img.shields.io/badge/Altium_Designer-000000?style=flat-square&logo=altiumdesigner&logoColor=white](https://cdn.prod.website-files.com/5cd19234373c953…072d367ffb442822f2d3_Logo%20Altium%20Designer.png))
+![Altium Designer](https://cdn.prod.website-files.com/5cd19234373c953…072d367ffb442822f2d3_Logo%20Altium%20Designer.png)
 ![LTspice](https://img.shields.io/badge/LTspice-FF0000?style=flat-square)
 ![PLECS](https://img.shields.io/badge/PLECS-0055A4?style=flat-square)
 ![Proteus](https://img.shields.io/badge/Proteus-15B8C1?style=flat-square)
