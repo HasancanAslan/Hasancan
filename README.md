@@ -13,7 +13,7 @@ Akdeniz Üniversitesi Elektrik-Elektronik Mühendisliği mezunuyum. Güç elektr
 
 **Donanım Tasarımı & Simülasyon**
 <br>
-![Altium Designer](https://img.shields.io/badge/Altium_Designer-000000?style=flat-square&logo=altium)
+![Altium Designer](https://img.shields.io/badge/Altium_Designer-000000?style=flat-square&logo=altiumdesigner&logoColor=white)
 ![LTspice](https://img.shields.io/badge/LTspice-FF0000?style=flat-square)
 ![PLECS](https://img.shields.io/badge/PLECS-0055A4?style=flat-square)
 ![Proteus](https://img.shields.io/badge/Proteus-15B8C1?style=flat-square)
@@ -21,11 +21,11 @@ Akdeniz Üniversitesi Elektrik-Elektronik Mühendisliği mezunuyum. Güç elektr
 
 **Gömülü Sistemler & Yazılım**
 <br>
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp)
-![dsPIC](https://img.shields.io/badge/Microchip_dsPIC-ED1C24?style=flat-square&logo=microchip)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![dsPIC](https://img.shields.io/badge/Microchip_dsPIC-ED1C24?style=flat-square&logo=microchip&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
 
 **Endüstriyel Üretim & Test**
 `DFM/DFT` `BOM Analizi` `ICT/FCT` `Osiloskop` `LCR Metre` `Saturn PCB`
