@@ -2,8 +2,8 @@
 
 **Güç Elektroniği ve Donanım Mühendisi** ⚡ | **Full-Stack Donanım Geliştirici**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](BURAYA_LINKEDIN_LINKINI_YAPISTIR)
-[![Email](https://img.shields.io/badge/Email-asinhscn@gmail.com-red?style=flat-square&logo=gmail)](mailto:asinhscn@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)]( https://www.linkedin.com/in/hasancan-aslan-a5275a177/)
+[![Email](https://img.shields.io/badge/Email-aslnhscn@gmail.com-red?style=flat-square&logo=gmail)](mailto:aslnhscn@gmail.com)
 
 Akdeniz Üniversitesi Elektrik-Elektronik Mühendisliği mezunuyum. Güç elektroniği, donanım tasarımı ve gömülü yazılım disiplinlerinin kesişiminde çözümler üretiyorum. SMPS topolojilerinden IoT sistemlerine kadar uçtan uca ürün geliştirme süreçlerine (tasarım, simülasyon, dizgi, test) hakimim.
 
@@ -41,3 +41,4 @@ Akdeniz Üniversitesi Elektrik-Elektronik Mühendisliği mezunuyum. Güç elektr
 ---
 
 *Şematik, PCB Layout ve simülasyon dosyaları için repolarımı inceleyebilirsiniz.*
+
