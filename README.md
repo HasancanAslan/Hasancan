@@ -2,7 +2,7 @@
 
 **Güç Elektroniği ve Donanım Mühendisi** ⚡ | **Full-Stack Donanım Geliştirici**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)]( https://www.linkedin.com/in/hasancan-aslan-a5275a177/)
+[![LinkedIn]([![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](#))]( https://www.linkedin.com/in/hasancan-aslan-a5275a177/)
 [![Email](https://img.shields.io/badge/Email-aslnhscn@gmail.com-red?style=flat-square&logo=gmail)](mailto:aslnhscn@gmail.com)
 
 Akdeniz Üniversitesi Elektrik-Elektronik Mühendisliği mezunuyum. Güç elektroniği, donanım tasarımı ve gömülü yazılım disiplinlerinin kesişiminde çözümler üretiyorum. SMPS topolojilerinden IoT sistemlerine kadar uçtan uca ürün geliştirme süreçlerine (tasarım, simülasyon, dizgi, test) hakimim.
@@ -21,8 +21,8 @@ Akdeniz Üniversitesi Elektrik-Elektronik Mühendisliği mezunuyum. Güç elektr
 
 **Gömülü Sistemler & Yazılım**
 <br>
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![C]([![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#))
+![C#]([![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#))
 ![dsPIC](https://img.shields.io/badge/Microchip_dsPIC-ED1C24?style=flat-square&logo=microchip&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
